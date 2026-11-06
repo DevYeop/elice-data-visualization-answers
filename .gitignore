@@ -1,0 +1,15 @@
+.venv/
+.local/
+archive/
+docs/superpowers/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.ipynb_checkpoints/
+**/todo.json
+**/result.json
+**/problem_*.png
+**/seoul.tmp.csv.gz
